@@ -9,7 +9,7 @@ target/
 
 #Output folder for app
 generatedFiles
-generatorPlikow/META-INF/
-generatorPlikow/src/main/resources/
+fileGenerator/META-INF/
+fileGenerator/src/main/resources/
 
 
