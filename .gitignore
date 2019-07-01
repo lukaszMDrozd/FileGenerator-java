@@ -1,0 +1,15 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+#Output folder for app
+generatedFiles
+generatorPlikow/META-INF/
+generatorPlikow/src/main/resources/
+
+
